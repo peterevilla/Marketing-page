@@ -179,6 +179,7 @@ html {
   flex-wrap: wrap;
   justify-content: center;
   width: 70%;
+  margin: 15%;
 }
 .gallery-image .img-box {
   box-sizing: content-box;
@@ -213,7 +214,7 @@ html {
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 .gallery-image .img-box .transparent-box .caption p:nth-child(2) {
-  font-size: 0.8em;
+  font-size: 3rem;
 }
 .gallery-image .img-box:hover {
   cursor: pointer;
